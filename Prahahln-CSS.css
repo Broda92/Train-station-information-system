@@ -1,0 +1,670 @@
+body {
+    background-color: Maroon;
+    font-family: Arial;
+    color: white;
+}
+
+#tiraz {
+	color:white;
+	font-family:Arial;
+	font-size:9px;
+	position: absolute;
+	top: 10px;
+	left: 130px;
+}
+
+#Stanice {
+	color:white;
+	background-color: Navy;
+	font-family:Arial;
+	font-size:25px;
+	height: 30px;
+	font-weight: bold;
+	position: absolute;
+	left: 620px;
+	width: 300px;
+	border: 1px solid black;
+	text-align: center;
+	top: -22px;
+}
+
+#Aa {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 5px;
+	top: 35px;
+	border: 2px solid black;
+}
+
+#Ab {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 768px;
+	top: 35px;
+	border: 2px solid black;
+}
+
+#B {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 5px;
+	top: 410px;
+	border: 2px solid black;
+}
+
+#C {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 310px;
+	top: 410px;
+	border: 2px solid black;
+}
+
+#D {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 615px;
+	top: 410px;
+	border: 2px solid black;
+}
+
+#E {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 920px;
+	top: 410px;
+	border: 2px solid black;
+}
+
+#F {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 1225px;
+	top: 410px;
+	border: 2px solid black;
+}
+
+#G {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 5px;
+	top: 485px;
+	border: 2px solid black;
+}
+
+#H {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 310px;
+	top: 485px;
+	border: 2px solid black;
+}
+
+#I {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 615px;
+	top: 485px;
+	border: 2px solid black;
+}
+
+#J {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 920px;
+	top: 485px;
+	border: 2px solid black;
+}
+
+#K {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 1225px;
+	top: 485px;
+	border: 2px solid black;
+}
+
+#L {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 5px;
+	top: 560px;
+	border: 2px solid black;
+}
+
+#M {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 310px;
+	top: 560px;
+	border: 2px solid black;
+}
+
+#N {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 615px;
+	top: 560px;
+	border: 2px solid black;
+}
+
+#O {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 920px;
+	top: 560px;
+	border: 2px solid black;
+}
+
+#P {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 1225px;
+	top: 560px;
+	border: 2px solid black;
+}
+
+#Q {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 5px;
+	top: 635px;
+	border: 2px solid black;
+}
+
+#R {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 310px;
+	top: 635px;
+	border: 2px solid black;
+}
+
+#S {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 615px;
+	top: 635px;
+	border: 2px solid black;
+}
+
+#T {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 920px;
+	top: 635px;
+	border: 2px solid black;
+}
+
+#U {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 1225px;
+	top: 635px;
+	border: 2px solid black;
+}
+
+#V {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 5px;
+	top: 710px;
+	border: 2px solid black;
+}
+
+#W {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 310px;
+	top: 710px;
+	border: 2px solid black;
+}
+
+#X {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 615px;
+	top: 710px;
+	border: 2px solid black;
+}
+
+#Y {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 920px;
+	top: 710px;
+	border: 2px solid black;
+}
+
+#Z {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 1225px;
+	top: 710px;
+	border: 2px solid black;
+}
+
+#ALFA {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 5px;
+	top: 785px;
+	border: 2px solid black;
+}
+
+#BETA {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 310px;
+	top: 785px;
+	border: 2px solid black;
+}
+
+#GAMA {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 615px;
+	top: 785px;
+	border: 2px solid black;
+}
+
+#DELTA {
+	background-color: darkblue;
+	color: white;
+	position: absolute;
+	left: 920px;
+	top: 785px;
+	border: 2px solid black;
+}
+
+#p_hala_A {
+	position: absolute;
+	top: 0px;
+	left: 10px;
+	font-size: 15px;
+}
+
+#p_hala_B {
+	position: absolute;
+	top: 0px;
+	left: 970px;
+	font-size: 15px;	
+}
+
+#p_B {
+	position: absolute;
+	left: 5px;
+	top: 375px;
+	font-size: 15px;
+}
+
+#p_C {
+	position: absolute;
+	left: 310px;
+	top: 375px;
+	font-size: 15px;
+}
+
+#p_D {
+	position: absolute;
+	left: 615px;
+	top: 375px;
+	font-size: 15px;
+}
+
+#p_E {
+	position: absolute;
+	left: 920px;
+	top: 375px;
+	font-size: 15px;
+}
+
+#p_F {
+	position: absolute;
+	left: 1225px;
+	top: 375px;
+	font-size: 15px;
+}
+
+#p_G {
+	position: absolute;
+	left: 5px;
+	top: 450px;
+	font-size: 15px;
+}
+
+#p_H {
+	position: absolute;
+	left: 310px;
+	top: 450px;
+	font-size: 15px;
+}
+
+#p_I {
+	position: absolute;
+	left: 615px;
+	top: 450px;
+	font-size: 15px;
+}
+
+#p_J {
+	position: absolute;
+	left: 920px;
+	top: 450px;
+	font-size: 15px;
+}
+
+#p_K {
+	position: absolute;
+	left: 1225px;
+	top: 450px;
+	font-size: 15px;
+}
+
+#p_L {
+	position: absolute;
+	left: 5px;
+	top: 525px;
+	font-size: 15px;
+}
+
+#p_M {
+	position: absolute;
+	left: 310px;
+	top: 525px;
+	font-size: 15px;
+}
+
+#p_N {
+	position: absolute;
+	left: 615px;
+	top: 525px;
+	font-size: 15px;
+}
+
+#p_O {
+	position: absolute;
+	left: 920px;
+	top: 525px;
+	font-size: 15px;
+}
+
+#p_P {
+	position: absolute;
+	left: 1225px;
+	top: 525px;
+	font-size: 15px;
+}
+
+#p_Q {
+	position: absolute;
+	left: 5px;
+	top: 600px;
+	font-size: 15px;
+}
+
+#p_R {
+	position: absolute;
+	left: 310px;
+	top: 600px;
+	font-size: 15px;
+}
+
+#p_S {
+	position: absolute;
+	left: 615px;
+	top: 600px;
+	font-size: 15px;
+}
+
+#p_T {
+	position: absolute;
+	left: 920px;
+	top: 600px;
+	font-size: 15px;
+}
+
+#p_U {
+	position: absolute;
+	left: 1225px;
+	top: 600px;
+	font-size: 15px;
+}
+
+#p_V {
+	position: absolute;
+	left: 5px;
+	top: 675px;
+	font-size: 15px;
+}
+
+#p_W {
+	position: absolute;
+	left: 310px;
+	top: 675px;
+	font-size: 15px;
+}
+
+#p_X {
+	position: absolute;
+	left: 615px;
+	top: 675px;
+	font-size: 15px;
+}
+
+#p_Y {
+	position: absolute;
+	left: 920px;
+	top: 675px;
+	font-size: 15px;
+}
+
+#p_Z {
+	position: absolute;
+	left: 1225px;
+	top: 675px;
+	font-size: 15px;
+}
+
+#p_ALFA {
+	position: absolute;
+	left: 5px;
+	top: 750px;
+	font-size: 15px;
+}
+
+#p_BETA {
+	position: absolute;
+	left: 310px;
+	top: 750px;
+	font-size: 15px;
+}
+
+#p_GAMA {
+	position: absolute;
+	left: 615px;
+	top: 750px;
+	font-size: 15px;
+}
+
+#p_DELTA {
+	position: absolute;
+	left: 920px;
+	top: 750px;
+	font-size: 15px;
+}
+
+.kolej_pevna {
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	width: 50px;
+	height: 45px;
+	text-align: center;
+	border: 2px solid black;
+	background-color: darkblue;
+}
+
+.t_nadpis {
+	font-size: 7px;
+	height: 10px;
+}
+
+.t_vlak {
+	color: white;
+	height: 15px;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.t_vlak_I {
+	color: Khaki;
+	height: 15px;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: MidnightBlue;
+}
+
+.t_zpozdeni {
+	text-align: right;
+}
+
+input[type="button"] {
+	width: 8px;
+	height: 14px;
+	font-size: 8px;
+}
+
+.but_smer {
+	width: 8px;
+}
+.but_nk {
+	width: 8px;
+}
+.but_zp {
+	width: 8px;
+}
+.but_odj {
+	width: 8px;
+}
+
+.odjezd {
+	background-color: red;
+	height: 14px;
+}
+
+.info {
+	background-color: orange;
+	height: 15px;
+}
+
+.druh {
+	width: 40px;
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+.číslo {
+	width: 40px;
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+.cíl {
+	width: 150px;
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+.směr {
+	width: 100px;
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+.čas {
+	width: 35px;
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+.dopravce {
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+.název {
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+.linka {
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+.linka_nazev {
+	background-color: darkblue;
+	border: 0px darkblue solid;
+	width: 90px;
+}
+
+.NK {
+	width: 35px;
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+.zpoždění {
+	width: 70px;
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+.HQ {
+	width: 5px;
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+.zpoždění_K {
+	width: 35px;
+	font-size: 9px;
+	text-align: center;
+	background-color: darkblue;
+	border: 0px darkblue solid;
+}
+
+/*table,th,td {
+	border: 0.5px solid black;
+}*/
